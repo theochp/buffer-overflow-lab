@@ -1,0 +1,5 @@
+.vscode
+*.swp
+core
+.gdb_history
+main
